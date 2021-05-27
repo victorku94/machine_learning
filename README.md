@@ -1,3 +1,3 @@
 # Machine Learning
 
-Please use this link and copy the link of the HTML file to view the document : https://htmlpreview.github.io/ 
+Please use this link to view the Wine Quality prediction project : https://htmlpreview.github.io/?https://github.com/victorku94/machine_learning/blob/main/WINE-QUALITY.html
